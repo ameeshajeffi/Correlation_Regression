@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+# NAME: AMEESHA JEFFI
+# REG NO: 212223220007
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -28,5 +30,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Output 
 ![image](https://github.com/user-attachments/assets/7fccd83d-dbe3-435b-a174-8bc4b8f4dc2a)
+
 
 # Result :The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated
